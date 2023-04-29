@@ -45,5 +45,5 @@ I encourage myself by sharing my project code on GitHub.
 
 
 >⚡Links | 链接
->>* [Personal WebSite | ipsb](https://ip.sb)
+>>* [Friends WebSite | Variflight](https://variflight.com)
 

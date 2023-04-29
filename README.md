@@ -45,5 +45,5 @@ I encourage myself by sharing my project code on GitHub.
 
 
 >⚡Links | 链接
->>* [Friends WebSite | Variflight](https://variflight.com)
+>>* [Friends WebSite | Variflight](https://www.variflight.com/)
 

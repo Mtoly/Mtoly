@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Mtoly 莫利
+## Mtoly
 - - -
 
 >以声之色,塑花之形,将你之名,刻于我心.
@@ -35,9 +35,6 @@ Halo，I'm honored that you opened this page.
   <img align="right" alt="Andtun02's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtoly&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="400"/>
 </a>
 
-I encourage myself by sharing my project code on GitHub.
-
-我在Github上面共享我的项目代码，以此勉励自我。
 
 <br>
 <br>
